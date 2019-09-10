@@ -9,13 +9,13 @@
 - 150 paises
 - Lanzamiento 19 de septiembre 
 - 4.99dls membresia familia
-- 1 mes de membresía gratis.
+- 1 mes de membresía gratuita
 
 ## AppleTV+
 - Movies, dramas, series
 - 4.99 dls membresia familia
 - 100 países en su lanzamiento
-- Noviembre 1
+- Lanzamiento Noviembre 1
 
 
 ## Ipad
