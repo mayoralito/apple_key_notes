@@ -93,7 +93,7 @@ Cinematic statbilization
 - 3 tomas en un solo disparo por cada tipo de lente
 
 ## Deep Fusion
-- Machine learning 9 imagenes, 4,4,1
+- Machine learning 9 imagenes(4,4,1)
 - Edición de video target profesional
 - Flimic pro App
 - Lanzamiento en Septiembre 20
