@@ -94,7 +94,6 @@ Cinematic statbilization
 
 ## Deep Fusion
 - Machine learning 9 imagenes, 4,4,1
-- Video 
 - Edición de video target profesional
-- Flimic pro
+- Flimic pro App
 - Lanzamiento en Septiembre 20
