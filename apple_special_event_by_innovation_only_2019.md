@@ -6,35 +6,35 @@
 - Konami
 - Capcom
 - AnnaPurna
-- 150 paises
-- Lanzamiento 19 de septiembre 
-- 4.99dls membresia familia
+- 150 países
+- Lanzamiento Sep/19/2019
+- $4.99 USD membresía familia
 - 1 mes de membresía gratuita
 
 ## AppleTV+
 - Movies, dramas, series
-- 4.99 dls membresia familia
+- $4.99 USD membresía familiar
 - 100 países en su lanzamiento
-- Lanzamiento Noviembre 1
+- Lanzamiento Nov/1/2019
 
 
-## Ipad
+## iPad
 - Display 10.2 retina display
 - 3.5 millones de pixeles
 - Procesador A10 
 - 2x performance
 - iPadOS
 	- Multitasking
-	- Safari desktop experience
-	- Floating keyboard
-	- 100% hecha de aluminio reciclado
-	- Costo: 329 dls
-	- Costo educacional: 299 dls
+	- Safari Desktop Experience
+	- Floating Keyboard
+	- 100% Hecha de aluminio reciclado
+	- Costo: $329 USD
+	- Costo Educacional: $299 USD
 
-## AppleWatch
+## Apple Watch
 
 - Gran impacto en salud, notificando escenarios graves, motivando a la gente.
-- Watch researching 
+- Watch Researching: 
 	- Noise
 	- Cycle Tracking para las chicas, Harvard TH
 	- Movement Study,  Brigham Health
@@ -42,58 +42,58 @@
 	- Safety
 	- Emergency SOS
 	- International emergency calling
-	- Septiembre 20 disponible
-	- Watch series 3, costo 199dls
+	- Disponible en Sep/20/2019
+	- Watch Series 3, costo $199 USD
 
-## Iphone 11
+## iPhone 11
 - 6 nuevos colores
-- 6.1 Liquid Retina display
-- special audio theater 
-- Dolby atmos support
-- Camera
-	- White 12MP camera
-	- Ultra wide camera
-	- Camara inmersiva
-	- Image signal processor
+- 6.1 Liquid Retina Display
+- Special Audio Theater 
+- Dolby Atmos Support
+- Camera:
+	- White 12MP Camera
+	- Ultra wide Camera
+	- Cámara Inmersiva
+	- Image Signal Processor
 	- Portrait de tu perro 
-	- 4k en camara frontal
+	- 4k en cámara frontal
 
 ## Night Mode
-Mejora de estabilizacion
-Cinematic statbilization
+Mejora de estabilización
+Cinematic Statbilization
 
 
 ## A13 Bionic
-- El procesador mas veloz en un celular
-- El GPU mas veloz en un celular
-- Costo 699dls
+- El procesador más veloz en un celular
+- El GPU más veloz en un celular
+- Costo $699 USD
 
 ## iPhone 11 Pro 
-- nuevo oled panel 
+- Nuevo Oled Panel 
 - Super Retina XDR
 - Performance
-- Machine learning
+- Machine learning:
 	- Nueral engine
 	- CPU
 	- GPU
 	- 1 trillón de operaciones por segundo
 	- El mejor telefono para AR
 
-## Lower power mode
-- 8.5 billion de transistores
-- 4 CPU cores
-- 20% más rapido en los diferentes componentes
+## Lower Power Mode
+- 8.5 billones de transistores
+- 4 CPU Cores
+- 20% más rápido en los diferentes componentes
 
 ## Camera Pro 
 - Wide Camera
-- Telephoto camera
-- Ultra wide camera
-- Pro photography
-- 4x optical zoom
+- Telephoto Camera
+- Ultra Wide Camera
+- Pro Photography
+- 4x Optical Zoom
 - 3 tomas en un solo disparo por cada tipo de lente
 
 ## Deep Fusion
-- Machine learning 9 imagenes(4,4,1)
+- Machine Learning 9 Images (4,4,1)
 - Edición de video target profesional
-- Flimic pro App
-- Lanzamiento en Septiembre 20
+- Flimic Pro App
+- Lanzamiento en Sep/20/2019
